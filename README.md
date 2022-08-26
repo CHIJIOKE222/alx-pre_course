@@ -1,1 +1,1 @@
-My first readme
+ALX journey is hard
